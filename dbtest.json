@@ -1,0 +1,14 @@
+{
+  "posts": [
+    { "id": "1", "title": "a title", "views": 100 },
+    { "id": "2", "title": "Collection1", "views": 200 }
+	{ "id": "3", "title": "Collection2", "views": 200 }
+  ],
+  "comments": [
+    { "id": "1", "text": "add comment for Collection1", "postId": "1" },
+    { "id": "2", "text": "comments for Collection2", "postId": "1" }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
